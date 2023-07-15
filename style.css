@@ -1,0 +1,20 @@
+.main {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.recipes .headline {
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  color: #e05e07;
+}
+
+.recipes {
+  border-style: solid;
+  border-width: 10px;
+  border-color: #70707020;
+  background-color: #ffe18e;
+}
+
+.recipe-links {
+  font-size: 18px;
+}
