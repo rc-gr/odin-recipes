@@ -2,10 +2,14 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.main .headline {
+.headline,
+.section {
   font-family: 'Times New Roman', Times, serif;
   font-style: italic;
   color: #e05e07;
+}
+
+.main .headline {
   text-align: center;
 }
 
