@@ -2,6 +2,13 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.main-container {
+  border-style: solid;
+  border-width: 10px;
+  border-color: #70707020;
+  background-color: #ffedbc;
+}
+
 .headline,
 .section {
   font-family: 'Times New Roman', Times, serif;
@@ -14,12 +21,5 @@
 }
 
 .recipes {
-  border-style: solid;
-  border-width: 10px;
-  border-color: #70707020;
-  background-color: #ffedbc;
-}
-
-.recipe-links {
   font-size: 18px;
 }
