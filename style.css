@@ -9,6 +9,11 @@
   background-color: #ffedbc;
 }
 
+.dish-image {
+  width: auto;
+  height: 360px;
+}
+
 .headline,
 .section {
   font-family: 'Times New Roman', Times, serif;
