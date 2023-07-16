@@ -9,3 +9,9 @@ This project aims to demonstrate the following skills:
   - Images using `img`
   - Links using `a`
   - Additional text formatting using `strong` and `em`
+  - Grouping related elements using `div`
+  - Targeting elements using `class` attribute
+- CSS
+  - Basic class-oriented rules using single selectors
+  - Rule organization taking into account the rule ordering of the cascade, inheritance and specificity
+  - Various properties for declarations for the background, font, text and images
