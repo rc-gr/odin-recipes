@@ -12,6 +12,8 @@ This project aims to demonstrate the following skills:
   - Grouping related elements using `div`
   - Targeting elements using `class` attribute
 - CSS
+  - Various properties for declarations for the background, font, text and images
   - Basic class-oriented rules using single selectors
   - Rule organization taking into account the rule ordering of the cascade, inheritance and specificity
-  - Various properties for declarations for the background, font, text and images
+  - Grouping selectors using ","
+  - Descendant combinator with the space character (" ")
