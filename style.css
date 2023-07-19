@@ -32,4 +32,10 @@
 
 .recipes {
   font-size: 18px;
+  text-align: center;
+}
+
+.recipes li {
+  display: inline-block;
+  padding: 8px;
 }
